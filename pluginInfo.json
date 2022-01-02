@@ -1,0 +1,18 @@
+{
+	"repoName": "fpp-lights-on-14th-show-status",
+	"name": "Lights On 14th - Show Status",
+	"author": "David Baumwald (dream-encode)",
+	"description": "Some custom API stuffs for LightsOn14th.com.",
+	"homeURL": "https://github.com/dream-encode/fpp-lights-on-14th-show-status",
+	"srcURL": "https://github.com/dream-encode/fpp-lights-on-14th-show-status.git",
+	"bugURL": "https://github.com/dream-encode/fpp-lights-on-14th-show-status/issues",
+	"allowUpdates": 1,
+	"versions": [
+		{
+			"minFPPVersion": "5.0",
+			"maxFPPVersion": "0",
+			"branch": "main",
+			"sha": ""
+		}
+	]
+}
